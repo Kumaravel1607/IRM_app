@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885206793181",
+    "project_id": "irmdesk-54fb6",
+    "storage_bucket": "irmdesk-54fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885206793181:android:a9c50d19542d3d96655434",
+        "android_client_info": {
+          "package_name": "com.irm.irmdesk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXwLDpENExZhVaKEjeR3Pl1V18MVzZ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885206793181:android:eb4a775544c052af655434",
+        "android_client_info": {
+          "package_name": "com.irm.irmdesks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXwLDpENExZhVaKEjeR3Pl1V18MVzZ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
